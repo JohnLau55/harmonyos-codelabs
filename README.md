@@ -26,4 +26,4 @@ DistributionGamePad：分布式游戏手柄，可以通过手机端跨设备控�
 
 remote add log
 remote add log2
-
+local add log
